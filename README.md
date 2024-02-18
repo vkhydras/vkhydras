@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif)](https://github.com/vkhydras)
 <h1 align="center">Hi 👋, I'm Victor Kimaru</h1>
 <h3 align="center">A motivated, adaptable, and responsible Software Engineer with a strong problem-solving mindset. Possess a methodical, result-oriented approach to work and a strong drive to see projects through to completion.</h3>
 
