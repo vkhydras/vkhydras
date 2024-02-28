@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [....](....)
 
-- 💬 Ask me about **MERN, Python, JS, NEXT**
+- 💬 Ask me about **MERN, Python, JS, NextJs**
 
 - 📫 How to reach me **victorkimaru8@gmail.com**
 
