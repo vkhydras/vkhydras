@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **victorkimaru8@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1mYvVcxb1UVd4yOuR1bGI2xpHHeK_fCfSUieZkkCEatk/edit](https://docs.google.com/document/d/1mYvVcxb1UVd4yOuR1bGI2xpHHeK_fCfSUieZkkCEatk/edit)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1mYvVcxb1UVd4yOuR1bGI2xpHHeK_fCfSUieZkkCEatk/edit)
 
 - ⚡ Fun fact **Did you know that the first computer program was written by Ada Lovelace in the mid-1800s? She wrote the algorithm for Charles Babbage's mechanical general-purpose computer, the Analytical Engine. Her work on the engine included creating what is considered to be the first algorithm specifically tailored for implementation on a computer. Ada Lovelace is often regarded as the world's first computer programmer!**
 
