@@ -4,13 +4,13 @@
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 👨‍💻 All of my projects are available at [....](....)
+- 👨‍💻 All of my projects are available at [Portfolio](https://victork.vercel.app/)
 
 - 💬 Ask me about **MERN, Python, JS, NextJs**
 
 - 📫 How to reach me **victorkimaru8@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1mYvVcxb1UVd4yOuR1bGI2xpHHeK_fCfSUieZkkCEatk/edit)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1NDbsfVqKkS2Gj0lDXNa7xVV23PKnGpQJ/view?usp=drivesdk)
 
 - ⚡ Fun fact **Did you know that the first computer program was written by Ada Lovelace in the mid-1800s? She wrote the algorithm for Charles Babbage's mechanical general-purpose computer, the Analytical Engine. Her work on the engine included creating what is considered to be the first algorithm specifically tailored for implementation on a computer. Ada Lovelace is often regarded as the world's first computer programmer!**
 
