@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1NDbsfVqKkS2Gj0lDXNa7xVV23PKnGpQJ/view?usp=drivesdk)
 
-- ⚡ Fun fact **Did you know? The first computer bug was an actual insect.**
+- ⚡ Fun fact: **Did you know? The first computer bug was an actual insect.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
