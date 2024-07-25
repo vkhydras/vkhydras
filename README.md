@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1NDbsfVqKkS2Gj0lDXNa7xVV23PKnGpQJ/view?usp=drivesdk)
 
-- ⚡ Fun fact **Did you know that the first computer program was written by Ada Lovelace in the mid-1800s? She wrote the algorithm for Charles Babbage's mechanical general-purpose computer, the Analytical Engine. Her work on the engine included creating what is considered to be the first algorithm specifically tailored for implementation on a computer. Ada Lovelace is often regarded as the world's first computer programmer!**
+- ⚡ Fun fact **Did you know? The first computer bug was an actual insect.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
