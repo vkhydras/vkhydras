@@ -26,5 +26,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vkhydras&show_icons=true&locale=en&layout=compact" alt="vkhydras" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vkhydras&" alt="vkhydras" /></p>
+
 
