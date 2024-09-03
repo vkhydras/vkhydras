@@ -6,11 +6,11 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://victork.vercel.app/)
 
-- 💬 Ask me about **MERN, Python, JS, NextJs**
+- 💬 Ask me about **MERN, Python, JS, NextJs, Remix**
 
 - 📫 How to reach me **victorkimaru8@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1NDbsfVqKkS2Gj0lDXNa7xVV23PKnGpQJ/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1dDerQtiMY6eSgkfN3NSdw0wBx08npLXc/view?usp=drivesdk)
 
 - ⚡ Fun fact: **Did you know? The first computer bug was an actual insect.**
 
