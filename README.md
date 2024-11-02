@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600_programming.gif)](https://github.com/vkhydras)
+[![MasterHead](https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif)](https://github.com/vkhydras)
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2D9ECF&random=false&width=435&lines=Full+Stack+Software+Engineer;Problem+Solver+%7C+Creative+Thinker;MERN+Stack+%7C+Python+%7C+Cloud+Expert" alt="Typing SVG" />
