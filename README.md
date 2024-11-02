@@ -11,11 +11,11 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## 🚀 About Me
-I'm a passionate Software Engineer with a love for creating elegant solutions to complex problems. My expertise spans across full-stack development, with a particular focus on MERN stack, Python, and cloud technologies.
+I'm a passionate Software Engineer with a love for creating elegant solutions to complex problems. My expertise spans across full-stack development, with a particular focus on MERN stack, Python and NextJs.
 
 ### 🎯 Quick Highlights
 - 🔭 Currently crafting amazing web experiences with **Next.js** and **Remix**
-- 🌱 Always learning, currently diving deeper into **Cloud Architecture** & **System Design**
+- 🌱 Always learning, currently diving deeper into **Cloud Architecture**, **System Design** & **MLA & AI**
 - 💡 Strong believer in clean code and best practices
 - 🎮 Fun fact: The first computer bug was an actual insect!
 
