@@ -15,7 +15,7 @@ I'm a passionate Software Engineer with a love for creating elegant solutions to
 
 ### 🎯 Quick Highlights
 - 🔭 Currently crafting amazing web experiences with **Next.js** and **Remix**
-- 🌱 Always learning, currently diving deeper into **Cloud Architecture**, **System Design** & **MLA & AI**
+- 🌱 Always learning, currently diving deeper into **Penetration testing**, **System Design** & **MLA & AI**
 - 💡 Strong believer in clean code and best practices
 - 🎮 Fun fact: The first computer bug was an actual insect!
 
