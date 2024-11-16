@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=00FF00&background=00000000&multiline=true&repeat=false&random=false&width=600&height=80&lines=👋+Hello+World%2C+I%27m+Victor+Kimaru" alt="Name" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=00FF00&background=00000000&multiline=true&repeat=false&random=false&width=600&height=80&lines=👋+Hello+World%2C+I%27m+Victor" alt="Name" />
 </h1>
 
 <div align="center">
