@@ -21,9 +21,11 @@
 <div align="left" style="border-left: 2px solid #6B8AF7; padding-left: 20px;">
 
 ## 🚀 About Me
+
 I'm a passionate Software Engineer with a love for creating elegant solutions to complex problems. My expertise spans across full-stack development, with a particular focus on MERN stack, Python and NextJs.
 
 ### 🎯 Quick Highlights
+
 - ⚡ Currently crafting amazing web experiences with **Next.js** and **Remix**
 - 🌱 Always learning, currently diving deeper into **Penetration testing**, **System Design** & **ML & AI**
 - 💻 Strong believer in clean code and best practices
@@ -37,13 +39,11 @@ I'm a passionate Software Engineer with a love for creating elegant solutions to
   
 ## ⚡ Status
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vkhydras/vkhydras/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vkhydras/vkhydras/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vkhydras/vkhydras/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vkhydras/vkhydras/output/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vkhydras/vkhydras/output/dist/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vkhydras/vkhydras/output/dist/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -52,6 +52,7 @@ I'm a passionate Software Engineer with a love for creating elegant solutions to
 <div align="center">
 
 ### 🎨 Frontend
+
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Remix](https://img.shields.io/badge/-Remix-000000?style=for-the-badge&logo=remix&logoColor=white)
@@ -60,6 +61,7 @@ I'm a passionate Software Engineer with a love for creating elegant solutions to
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### ⚙️ Backend
+
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -69,12 +71,14 @@ I'm a passionate Software Engineer with a love for creating elegant solutions to
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 ### 🗄️ Database & Cloud
+
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 🔧 Tools & Utilities
+
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -93,8 +97,8 @@ I'm a passionate Software Engineer with a love for creating elegant solutions to
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vkhydras&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-
 ## 🔥 Skill Insights
+
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vkhydras&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
@@ -121,7 +125,7 @@ I'm a passionate Software Engineer with a love for creating elegant solutions to
 <div align="center">
 
 ### 👥 Profile Views
-  
+
 [![](https://visitcount.itsvg.in/api?id=vkhydras&icon=2&color=6)](https://visitcount.itsvg.in)
 
 </div>
