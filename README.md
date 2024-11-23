@@ -35,9 +35,15 @@ I'm a passionate Software Engineer with a love for creating elegant solutions to
 
 <div align="center">
   
-## ⚡ Current Status
+## ⚡ Status
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vkhydras&theme=react&height=300&area=true&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/vkhydras/github-readme-activity-graph)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vkhydras/vkhydras/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vkhydras/vkhydras/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vkhydras/vkhydras/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 </div>
 
@@ -87,13 +93,6 @@ I'm a passionate Software Engineer with a love for creating elegant solutions to
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vkhydras&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 🎯 Featured Projects
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vkhydras&repo=MovieMate&theme=tokyonight&hide_border=true)](https://github.com/vkhydras/MovieMate)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vkhydras&repo=TalkGpt&theme=tokyonight&hide_border=true)](https://github.com/vkhydras/TalkGpt)
-
-</div>
 
 ## 🔥 Skill Insights
 <div align="center">
