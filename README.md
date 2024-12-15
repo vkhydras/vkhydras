@@ -88,13 +88,6 @@ I'm a passionate Software Engineer with a love for creating elegant solutions to
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vkhydras&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 🔥 Skill Insights
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=vkhydras&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ## 🤝 Let's Connect
 
