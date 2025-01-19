@@ -15,6 +15,11 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=vkhydras&label=Profile%20Views&color=6B8AF7&style=flat)](https://github.com/vkhydras)
 [![Years Badge](https://badges.pufler.dev/years/vkhydras)](https://github.com/vkhydras)
 
+<div align="center">
+  <h3>💭 Quote of the Day</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
 
 
 </div>
@@ -144,10 +149,7 @@ I'm a passionate Software Engineer with a love for creating elegant solutions to
   </a>
 </div>
 
-<div align="center">
-  <h3>💭 Quote of the Day</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6B8AF7&height=120&section=footer" />
